@@ -1,0 +1,14 @@
+President:
+John Smith=3
+
+Governor:
+Steven Johnson=1
+Laura Brown=1
+writeIn-SUSAN=1
+
+Prop 1 - Infrastructure Investment:
+Yes=3
+
+Prop 2 - Educational Funding:
+Yes=3
+
